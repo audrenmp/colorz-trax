@@ -1,0 +1,80 @@
+{
+    "program": [
+      {
+        "id": "madben",
+        "title": "Madben Fréquence(s) live",
+        "localisation": "Debonair - Paris",
+        "hour": "23h30"
+      },
+      {
+        "id": "jjchosen",
+        "title": "JJ & Chosen Family",
+        "localisation": "Debonair - Paris",
+        "hour": "23h30"
+      },
+      {
+        "id": "garosnow",
+        "title": "Garosnow 7ème Edition",
+        "localisation": "La Java - Paris",
+        "hour": "23h30"
+      },
+      {
+        "id": "magicsystem",
+        "title": "Magic System 2019 Tour",
+        "localisation": "Concrete - Paris",
+        "hour": "23h30"
+      }
+      
+    ],
+    "calendar": [
+      {
+        "18": [
+          {
+            "id": "houseofunderground",
+            "title": "House Of Underground 2 years anniversary w/ Deejay Astral",
+            "localisation": "Debonair - Paris",
+            "date": "Ven. 18 janv.",
+            "hour": "23h00 à 06h00"
+          },
+          {
+            "id": "skurt",
+            "title": "SKURT w/ Black Tiger Sex Machine & more",
+            "localisation": "Le Bikini - Ramonville-Saint-Agne",
+            "date": "Ven. 18 janv.",
+            "hour": "23h00 à 06h00"
+          }
+        ]
+      },
+        {
+        "19": [
+          {
+            "id": "boussole",
+            "title": "Boussole 6 Anniversary Party feat. LONE (R&S)",
+            "localisation": "Le Bikini - Ramonville-Saint-Agne",
+            "date": "Sam. 19 janv.",
+            "hour": "23h00 à 06h00"
+          },
+          {
+            "id": "bellevilleboogie",
+            "title": "Belleville Boogie: Volcov Theo Mamie's Jan Decent & Martin Malin",
+            "localisation": "La Java - Paris",
+            "date": "Sam. 19 janv.",
+            "hour": "23h00 à 06h00"
+          }
+        ]
+      },
+      {
+        "25": [
+          {
+            "id": "lamachine",
+            "important": true,
+            "title": "La Machine : L'anniversaire 10-1",
+            "localisation": "La Java - Paris",
+            "day": 25,
+            "date": "vendredi 25 janv..",
+            "hour": "23h00 à 06h00"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+div[lazy="loading"] {
+  opacity: 0;
+}
+div[lazy="error"] {
+  opacity: 0;
+}
+div[lazy="loaded"] {
+  opacity: 1;
+  webkit-animation: fadeIn 2s ease-in; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadeIn 2s ease-in; /* Firefox < 16 */
+  -ms-animation: fadeIn 2s ease-in; /* Internet Explorer */
+  -o-animation: fadeIn 2s ease-in; /* Opera < 12.1 */
+  animation: fadeIn 2s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
